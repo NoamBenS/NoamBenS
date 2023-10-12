@@ -1,4 +1,4 @@
-# Hey! I'm Noam - a first year Honors CS Student :)
+# Hey! I'm Noam - a second-year Honors CS Student at Yeshiva University :)
 
 Enjoy looking at my account!
 
