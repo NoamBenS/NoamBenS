@@ -1,4 +1,4 @@
-# Hey! I'm Noam - a third-year Honors CS Student at Yeshiva University :)
+# Hey! I'm Noam - a fourth-year Dean's List Computer Science Student at Yeshiva University :)
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noambensimon)
